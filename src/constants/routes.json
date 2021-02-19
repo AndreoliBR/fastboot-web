@@ -1,0 +1,10 @@
+{
+  "Introdução": "/",
+  "Info do Dispositivo": "/device-info",
+  "Capturar Tela": "/screen-capture",
+  "Explorador de Arquivos": "/file-explorer",
+  "Flash Rom": "/flash",
+  "Instalar APK": "/apk-install",
+  "ADB sobre WiFi": "/adb-wifi",
+  "Shell Interativo": "/shell"
+}
