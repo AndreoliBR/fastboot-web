@@ -11,9 +11,7 @@ import {
   Stepper,
   Step,
   StepLabel,
-  Divider,
   Grid,
-  CircularProgress
 } from '@material-ui/core';
 import Helmet from 'react-helmet';
 import {
@@ -80,9 +78,9 @@ const FlashRom: React.FC = () => {
     }
   }
 
-  function isStepOptional(step: number) {
+  /*function isStepOptional(step: number) {
     return false;
-  };
+  };*/
 
   function isStepSkipped(step: number) {
     return skipped.has(step);
